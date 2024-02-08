@@ -1,15 +1,15 @@
 <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="44.0152" cy="135.769" r="12.0152" fill="white"/>
-<circle cx="44.0152" cy="166.207" r="12.0152" fill="white"/>
-<circle cx="44.0152" cy="105.33" r="12.0152" fill="white"/>
-<circle cx="44.0152" cy="74.892" r="12.0152" fill="white"/>
-<circle cx="44.0152" cy="44.4535" r="12.0152" fill="white"/>
-<circle cx="74.4536" cy="14.0152" r="12.0152" fill="white"/>
-<circle cx="104.892" cy="14.0152" r="12.0152" fill="white"/>
-<circle cx="104.892" cy="44.4535" r="12.0152" fill="white"/>
-<circle cx="135.33" cy="44.4535" r="12.0152" fill="white"/>
-<circle cx="135.33" cy="74.892" r="12.0152" fill="white"/>
-<circle cx="106.494" cy="74.892" r="12.0152" fill="white"/>
-<circle cx="74.4536" cy="105.33" r="12.0152" fill="white"/>
-<circle cx="104.892" cy="105.33" r="12.0152" fill="white"/>
+<circle cx="44.0152" cy="135.769" r="12.0152" fill="black"/>
+<circle cx="44.0152" cy="166.207" r="12.0152" fill="black"/>
+<circle cx="44.0152" cy="105.33" r="12.0152" fill="black"/>
+<circle cx="44.0152" cy="74.892" r="12.0152" fill="black"/>
+<circle cx="44.0152" cy="44.4535" r="12.0152" fill="black"/>
+<circle cx="74.4536" cy="14.0152" r="12.0152" fill="black"/>
+<circle cx="104.892" cy="14.0152" r="12.0152" fill="black"/>
+<circle cx="104.892" cy="44.4535" r="12.0152" fill="black"/>
+<circle cx="135.33" cy="44.4535" r="12.0152" fill="black"/>
+<circle cx="135.33" cy="74.892" r="12.0152" fill="black"/>
+<circle cx="106.494" cy="74.892" r="12.0152" fill="black"/>
+<circle cx="74.4536" cy="105.33" r="12.0152" fill="black"/>
+<circle cx="104.892" cy="105.33" r="12.0152" fill="black"/>
 </svg>
